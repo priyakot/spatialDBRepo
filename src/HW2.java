@@ -16,7 +16,7 @@ import java.util.ArrayList;
  *
  */
 
-public class HW2 {
+public class SpatialProject {
 	public static void main(String[] args) {
 		Connection conn=null;
 		try{
